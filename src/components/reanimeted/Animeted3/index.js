@@ -6,7 +6,7 @@ import React from 'react'
 import Animated, { useAnimatedScrollHandler, useSharedValue } from 'react-native-reanimated'
 import PageItem from './pageitem'
 
-const WORDS = ["What's", 'up', 'Mobile', 'devs?']
+const WORDS = ["What's", 'up', 'Mobıle', 'devs?']
 
 const Animeted2 = () => {
 
